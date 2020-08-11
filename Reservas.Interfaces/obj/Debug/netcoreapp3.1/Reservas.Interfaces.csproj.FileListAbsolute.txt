@@ -1,0 +1,9 @@
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Reservas.Interfaces\bin\Debug\netcoreapp3.1\Reservas.Interfaces.deps.json
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Reservas.Interfaces\bin\Debug\netcoreapp3.1\Reservas.Interfaces.dll
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Reservas.Interfaces\bin\Debug\netcoreapp3.1\Reservas.Interfaces.pdb
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Reservas.Interfaces\obj\Debug\netcoreapp3.1\Reservas.Interfaces.AssemblyInfoInputs.cache
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Reservas.Interfaces\obj\Debug\netcoreapp3.1\Reservas.Interfaces.AssemblyInfo.cs
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Reservas.Interfaces\obj\Debug\netcoreapp3.1\Reservas.Interfaces.csproj.CoreCompileInputs.cache
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Reservas.Interfaces\obj\Debug\netcoreapp3.1\Reservas.Interfaces.dll
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Reservas.Interfaces\obj\Debug\netcoreapp3.1\Reservas.Interfaces.pdb
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Reservas.Interfaces\obj\Debug\netcoreapp3.1\Reservas.Interfaces.csprojAssemblyReference.cache

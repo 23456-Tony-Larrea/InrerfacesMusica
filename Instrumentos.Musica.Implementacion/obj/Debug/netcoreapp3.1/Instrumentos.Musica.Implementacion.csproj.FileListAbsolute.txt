@@ -1,0 +1,15 @@
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\bin\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.exe
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\bin\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.deps.json
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\bin\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.runtimeconfig.json
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\bin\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.runtimeconfig.dev.json
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\bin\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.dll
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\bin\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.pdb
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\obj\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.csprojAssemblyReference.cache
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\obj\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.AssemblyInfoInputs.cache
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\obj\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.AssemblyInfo.cs
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\obj\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.csproj.CoreCompileInputs.cache
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\obj\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.dll
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\obj\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.pdb
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\obj\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.genruntimeconfig.cache
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\bin\Debug\netcoreapp3.1\Reservas.Interfaces.dll
+D:\PV3ERO\Interfaz\Instrumentos.Musica.Implementacion\Instrumentos.Musica.Implementacion\obj\Debug\netcoreapp3.1\Instrumentos.Musica.Implementacion.csproj.CopyComplete
